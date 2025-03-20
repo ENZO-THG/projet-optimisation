@@ -1,6 +1,0 @@
-{
-    "root": "dashboard-hospital",
-    "engines": {
-      "node": "18.x"
-    }
-  }
